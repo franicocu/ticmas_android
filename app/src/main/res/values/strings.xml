@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">comparador</string>
+    <string name="ed_hint">Escribe un texto aqui</string>
+    <string name="compare">Comparar</string>
+    <string name="tv_true">Ambos textos son iguales</string>
+    <string name="tv_false">Los textos son diferentes</string>
+</resources>
